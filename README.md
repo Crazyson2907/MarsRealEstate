@@ -1,8 +1,7 @@
-MarsRealEstateGrid - Solution Code
+MarsRealEstateGrid
 ==================================
 
-Solution code for Android Kotlin Fundamentals Codelab 8.2 Loading and displaying 
-images from the internet.
+Loading and displaying images from the internet.
 
 Introduction
 ------------
@@ -20,20 +19,6 @@ The app also leverages [ViewModel](https://developer.android.com/topic/libraries
 adapters, and [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/) 
 with the SafeArgs plugin for parameter passing between fragments.
 
-Pre-requisites
---------------
-
-You need to know:
-- How to create and use fragments.
-- How to navigate between fragments, and use safeArgs to pass data between fragments.
-- How to use architecture components including ViewModel, ViewModelProvider.Factory, LiveData, and LiveData transformations.
-- How to use coroutines for long-running tasks.
-
-
-Getting Started
----------------
-
-1. Download and run the app.
 
 License
 -------
